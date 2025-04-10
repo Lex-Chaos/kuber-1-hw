@@ -44,4 +44,4 @@
 
 Дашборд:
 
-![Dashboard](https://github.com/Lex-Chaos/kuber-1-hw/blob/main/img/Task1-3.png)
+![Dashboard](https://github.com/Lex-Chaos/kuber-1-hw/blob/main/img/Task1-4.png)
